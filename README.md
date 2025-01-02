@@ -1,5 +1,7 @@
 # PoliticalNote
 
+# DO IT! JUST DO IT! STOP TOUCHING IT! STOP BYE! STOP BEING BORING!
+
 ```yaml
 name: NFT Minting Automation
 
